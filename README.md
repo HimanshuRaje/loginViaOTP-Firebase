@@ -32,10 +32,8 @@ This project was created for **learning and practice only**.
    ```bash
    git clone https://github.com/your-username/otp-login
    cd otp-login
-   
-npm install
-npm run dev
-
+   npm install
+   npm run dev
 
 
 Phone: +919999999999
