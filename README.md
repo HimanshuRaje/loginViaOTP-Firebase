@@ -36,10 +36,6 @@ This project was created for **learning and practice only**.
 
 npm install
 
-import { initializeApp } from "firebase/app";
-import { getAuth } from "firebase/auth";
-
-
 ## Start the development server:
 
 npm run dev
